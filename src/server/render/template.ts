@@ -1,5 +1,5 @@
-export const template = (html: string, initialProps={}, styles=""): string => {
-    return `
+export const template = (html: string, initialProps = {}, styles = ''): string => {
+	return `
     <!DOCTYPE html>
     <html lang="es">
 
@@ -25,4 +25,4 @@ export const template = (html: string, initialProps={}, styles=""): string => {
 
     </html>
     `;
-}
+};

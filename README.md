@@ -3,7 +3,7 @@
 ### Install dependencies
 
 ```
-yarn 
+yarn
 ```
 
 ### Development
@@ -11,7 +11,6 @@ yarn
 ```
 yarn dev
 ```
-
 
 ### Production
 
